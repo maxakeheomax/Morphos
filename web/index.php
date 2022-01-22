@@ -1,5 +1,5 @@
 <?php
-require dirname(dirname(__FILE__)).'/vendor/autoload.php';
+require_once dirname(dirname(__FILE__)) . '/vendor/autoload.php';
 use morphos\Gender;
 use morphos\Russian\CardinalNumeralGenerator;
 use morphos\Russian\Cases;
